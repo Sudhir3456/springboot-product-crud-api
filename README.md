@@ -56,16 +56,10 @@ spring-boot-simple-crud-with-mysql
  
 </td>
 </tr>
-</table>
-
-
+</table> 
 ---
-
 <img src="https://github.com/user-attachments/assets/939712d2-7094-4447-a997-745471c46dbc" alt="Eclipse Project Structure" width="100%" />
-
-
-
-
+ 
 ## 🌐 Technologies Used
 
 - *Java 17* – Backend programming language  
