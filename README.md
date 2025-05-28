@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="45%">
+    <td valign="top" width="25%">
 
 <pre>
 spring-boot-simple-crud-with-mysql
@@ -53,7 +53,7 @@ spring-boot-simple-crud-with-mysql
 </td>
 <td valign="top" width="55%">
   <img src="https://github.com/user-attachments/assets/939712d2-7094-4447-a997-745471c46dbc" alt="Eclipse Project Structure" width="100%" />
-    <img src="https://github.com/user-attachments/assets/079b2b9f-b935-4aea-9d41-dc989130e3de" alt="Eclipse Project Structure" width="100%" />
+  <img src="https://github.com/user-attachments/assets/079b2b9f-b935-4aea-9d41-dc989130e3de" alt="Eclipse Project Structure" width="100%" />
 
 </td>
 </tr>
